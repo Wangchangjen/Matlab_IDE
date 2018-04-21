@@ -3,7 +3,6 @@
 
 
 # Information:
-
 - IDE: Iterative discrete estimation
 - IDE2: Low-complexity version of Iterative discrete estimation
 
