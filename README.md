@@ -37,20 +37,18 @@ par.precoder = {'IDE','SQUID','IDE2','SDR1','SDRr'}; % select precoding scheme(s
 
 #Step 4. In precoder_sim.m, find the line
 
-switch (par.precoder{pp})
+switch (par.precoder{pp}) 
 
 Include the cases
------------------------------------------
+
 case 'IDE'
+[x, beta] = IDE(par,s,Hhat,N0);
 
-[x, beta] = IDE(par,s,Hhat,N0); 
----------------------------------------
 case 'IDE2'
-
 [x, beta] = IDE2(par,s,Hhat,N0);
--------------------------------------------
-#Step 5. Now, you are ready to run the precodes:
 
+-----------------------------------------------------
+#Step 5. Now, you are ready to run the precodes:
 >> precoder_sim
 
 The simulator returns a plot of the BER as a function of the SNR.
