@@ -22,7 +22,7 @@ We provide the codes in a way that you can perfrom based on the simulator for "Q
 
 - Step 1. Download the simulator for "Quantized Precoding for Massive MU-MIMO":
 
-<div align=center> https://github.com/quantizedmassivemimo/1bit_precoding </div>
+>> https://github.com/quantizedmassivemimo/1bit_precoding
 
 - Step 2. Download our proposed precoders (IDE.m & IDE2.m), which can be found
 
