@@ -1,6 +1,7 @@
 # Simulation for "Finite-Alphabet Precoding for Massive MU-MIMO with Low-resolution DACs"
 (c) 2018 Chang-Jen Wang and Chao-Kai Wen e-mail: dkman0988@gmail.com and chaokai.wen@mail.nsysu.edu.tw
 
+
 # Information:
 
 - IDE: Iterative discrete estimation
