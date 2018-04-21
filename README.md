@@ -61,5 +61,5 @@ We provide the codes in a way that you can perfrom based on the simulator for "Q
 --------------------------------------------------------------------------------------------------------------------------------------
 The simulator returns a plot of the BER as a function of the SNR.
 
-<div align=center><img width="650" height="650" src="https://github.com/Wangchangjen/Matlab_IDE/blob/master/Fig2.jpg"/></div>
+<div align=center><img width="600" height="600" src="https://github.com/Wangchangjen/Matlab_IDE/blob/master/Fig2.jpg"/></div>
 
