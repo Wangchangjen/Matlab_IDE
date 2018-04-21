@@ -42,9 +42,11 @@ switch (par.precoder{pp})
 Include the cases
 
 case 'IDE'
+
 [x, beta] = IDE(par,s,Hhat,N0);
 
 case 'IDE2'
+
 [x, beta] = IDE2(par,s,Hhat,N0);
 
 -----------------------------------------------------
