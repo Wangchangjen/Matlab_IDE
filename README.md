@@ -49,7 +49,6 @@ case 'IDE2'
 
 [x, beta] = IDE2(par,s,Hhat,N0);
 
------------------------------------------------------
 #Step 5. Now, you are ready to run the precodes:
 >> precoder_sim
 
