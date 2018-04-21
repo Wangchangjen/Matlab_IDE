@@ -55,5 +55,5 @@ precoder_sim
 
 The simulator returns a plot of the BER as a function of the SNR.
 
-![image](https://github.com/Wangchangjen/matlabcode/blob/master/Fig1.pdf)
+![image](Matlab_IDE/Fig1.jpg)
 
