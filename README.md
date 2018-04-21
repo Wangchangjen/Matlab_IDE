@@ -40,15 +40,15 @@ We provide the codes in a way that you can perfrom based on the simulator for "Q
 
   switch (par.precoder{pp}) 
 
-Include the cases
+  Include the cases
 
-  case 'IDE'
+    case 'IDE'
 
-  [x, beta] = IDE(par,s,Hhat,N0);
+    [x, beta] = IDE(par,s,Hhat,N0);
 
-  case 'IDE2'
+    case 'IDE2'
 
-  [x, beta] = IDE2(par,s,Hhat,N0);
+    [x, beta] = IDE2(par,s,Hhat,N0);
 
 - Step 5. Now, you are ready to run the precodes:
 
