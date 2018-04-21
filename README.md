@@ -27,7 +27,7 @@ https://github.com/quantizedmassivemimo/1bit_precoding
 
 https://github.com/Wangchangjen/Matlab_IDE
 
--Step 3. In precoder_sim.m, find the line 
+- Step 3. In precoder_sim.m, find the line 
 
 par.precoder = … 
 
@@ -35,7 +35,7 @@ Replace the line by
 
 par.precoder = {'IDE','SQUID','IDE2','SDR1','SDRr'}; % select precoding scheme(s) to be evaluated
 
--Step 4. In precoder_sim.m, find the line
+- Step 4. In precoder_sim.m, find the line
 
 switch (par.precoder{pp}) 
 
@@ -49,7 +49,7 @@ case 'IDE2'
 
 [x, beta] = IDE2(par,s,Hhat,N0);
 
--Step 5. Now, you are ready to run the precodes:
+- Step 5. Now, you are ready to run the precodes:
 
 precoder_sim
 
