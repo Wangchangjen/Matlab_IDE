@@ -52,10 +52,9 @@ Include the cases
 
 - Step 5. Now, you are ready to run the precodes:
 
-  <table> 
   precoder_sim
-  <\table>
 
+--------------------------------------------------------------------------------------------------------------------------------------
 The simulator returns a plot of the BER as a function of the SNR.
 
 <div align=center><img width="650" height="650" src="https://github.com/Wangchangjen/Matlab_IDE/blob/master/Fig2.jpg"/></div>
