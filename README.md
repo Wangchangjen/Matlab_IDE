@@ -19,7 +19,7 @@ We provide the codes in a way that you can perfrom based on the simulator for "Q
 
 # How to start a simulation:
 
-#Step 1. Download the simulator for "Quantized Precoding for Massive MU-MIMO":
+-Step 1. Download the simulator for "Quantized Precoding for Massive MU-MIMO":
 
 https://github.com/quantizedmassivemimo/1bit_precoding
 
