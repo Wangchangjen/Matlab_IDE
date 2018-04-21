@@ -39,14 +39,14 @@ Step 4. In precoder_sim.m, find the line
 
 switch (par.precoder{pp})
 
-Include the cases
+-Include the cases
 
-- case 'IDE'
+case 'IDE'
 
 [x, beta] = IDE(par,s,Hhat,N0); 
 
 
-- case 'IDE2'
+case 'IDE2'
 
 [x, beta] = IDE2(par,s,Hhat,N0);
 
