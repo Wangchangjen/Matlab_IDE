@@ -19,11 +19,11 @@ We provide the codes in a way that you can perfrom based on the simulator for "Q
 
 # How to start a simulation:
 
--Step 1: Download the simulator for "Quantized Precoding for Massive MU-MIMO":
+- Step 1. Download the simulator for "Quantized Precoding for Massive MU-MIMO":
 
 https://github.com/quantizedmassivemimo/1bit_precoding
 
--Step 2. Download our proposed precoders (IDE.m & IDE2.m), which can be found
+- Step 2. Download our proposed precoders (IDE.m & IDE2.m), which can be found
 
 https://github.com/Wangchangjen/Matlab_IDE
 
