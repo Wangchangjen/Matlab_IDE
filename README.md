@@ -1,4 +1,4 @@
-# Matlab_IDE
+# Simulation for "Finite-Alphabet Precoding for Massive MU-MIMO with Low-resolution DACs"
 
 Matlab codes for "Finite-Alphabet Precoding for Massive MU-MIMO with Low-resolution DACs"
 
