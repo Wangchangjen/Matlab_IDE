@@ -33,9 +33,9 @@ We provide the codes in a way that you can perfrom based on the simulator for "Q
   par.precoder = … 
 
   Replace the line by
-  <tr> 
+  <td> 
   par.precoder = {'IDE','SQUID','IDE2','SDR1','SDRr'}; % select precoding scheme(s) to be evaluated
-  <\tr>
+  <\td>
 - Step 4. In precoder_sim.m, find the line
 
   switch (par.precoder{pp}) 
